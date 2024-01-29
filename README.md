@@ -1,2 +1,2 @@
 # JavaScript
-This repo is learning sources.
+This repo for learning purpose.
